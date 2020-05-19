@@ -15,5 +15,6 @@ install Gitbash from https://gitforwindows.org/
 install github from https://github.com/ or signup online.
 <p>Online Website</p>
 You may also wish to view my web content https://adoring-beaver-9187a5.netlify.app 
+
 <p>Acknowledgments</p>
 A special thanks to Nate Wills (instructor) A special thanks to the Nes-Style-Css framework creator B.C.Rikko and his affiliated devs.
